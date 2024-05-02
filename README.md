@@ -1,1 +1,1 @@
-台湾EPG
+Singtel EPG
