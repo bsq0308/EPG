@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20240525080002 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_TW.xml">
+<tv date="20240525080002 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_TW.xml">
   <channel id="271817">
     <display-name lang="TW">東森戲劇台</display-name>
   </channel>
@@ -1272,987 +1272,987 @@
   <channel id="349066">
     <display-name lang="TW">KLT-靖天國際台</display-name>
   </channel>
-    <programme channel="334778" start="20240525013500 +0800" stop="20240525014000 +0800">
+    <programme channel="334778" start="20240525013500 +0000" stop="20240525014000 +0000">
     <title lang="zh">基因戰將(輔12)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525014000 +0800" stop="20240525033500 +0800">
+  <programme channel="334778" start="20240525014000 +0000" stop="20240525033500 +0000">
     <title lang="zh">奪命密碼(輔12)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525033500 +0800" stop="20240525034000 +0800">
+  <programme channel="334778" start="20240525033500 +0000" stop="20240525034000 +0000">
     <title lang="zh">暗算(輔12)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525034000 +0800" stop="20240525051500 +0800">
+  <programme channel="334778" start="20240525034000 +0000" stop="20240525051500 +0000">
     <title lang="zh">恐龍飯店(輔12)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525051500 +0800" stop="20240525054500 +0800">
+  <programme channel="334778" start="20240525051500 +0000" stop="20240525054500 +0000">
     <title lang="zh">願望咖啡館(護)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525054500 +0800" stop="20240525072000 +0800">
+  <programme channel="334778" start="20240525054500 +0000" stop="20240525072000 +0000">
     <title lang="zh">攔截永生碼(護)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525072000 +0800" stop="20240525075000 +0800">
+  <programme channel="334778" start="20240525072000 +0000" stop="20240525075000 +0000">
     <title lang="zh">地球另一端的守候(護)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525075000 +0800" stop="20240525090500 +0800">
+  <programme channel="334778" start="20240525075000 +0000" stop="20240525090500 +0000">
     <title lang="zh">我想要你記得(護)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525090500 +0800" stop="20240525094000 +0800">
+  <programme channel="334778" start="20240525090500 +0000" stop="20240525094000 +0000">
     <title lang="zh">一路顛到掛(護)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525094000 +0800" stop="20240525105500 +0800">
+  <programme channel="334778" start="20240525094000 +0000" stop="20240525105500 +0000">
     <title lang="zh">雙面海德(護)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525105500 +0800" stop="20240525113000 +0800">
+  <programme channel="334778" start="20240525105500 +0000" stop="20240525113000 +0000">
     <title lang="zh">總是有個人在愛你(護)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525113000 +0800" stop="20240525124500 +0800">
+  <programme channel="334778" start="20240525113000 +0000" stop="20240525124500 +0000">
     <title lang="zh">陰謀(護)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525124500 +0800" stop="20240525132000 +0800">
+  <programme channel="334778" start="20240525124500 +0000" stop="20240525132000 +0000">
     <title lang="zh">SHERO：好萊塢的女替身(護)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525132000 +0800" stop="20240525142500 +0800">
+  <programme channel="334778" start="20240525132000 +0000" stop="20240525142500 +0000">
     <title lang="zh">全力以赴(護)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525142500 +0800" stop="20240525152000 +0800">
+  <programme channel="334778" start="20240525142500 +0000" stop="20240525152000 +0000">
     <title lang="zh">100%小狼人(普)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525152000 +0800" stop="20240525162000 +0800">
+  <programme channel="334778" start="20240525152000 +0000" stop="20240525162000 +0000">
     <title lang="zh">怪奇小子之海底王國(普)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525162000 +0800" stop="20240525165500 +0800">
+  <programme channel="334778" start="20240525162000 +0000" stop="20240525165500 +0000">
     <title lang="zh">我可能不會變瘦(普)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525165500 +0800" stop="20240525180000 +0800">
+  <programme channel="334778" start="20240525165500 +0000" stop="20240525180000 +0000">
     <title lang="zh">北韓搖滾解放日(普)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525180000 +0800" stop="20240525185000 +0800">
+  <programme channel="334778" start="20240525180000 +0000" stop="20240525185000 +0000">
     <title lang="zh">舞娘辣辣隊(普)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525185000 +0800" stop="20240525194500 +0800">
+  <programme channel="334778" start="20240525185000 +0000" stop="20240525194500 +0000">
     <title lang="zh">水星任務(護)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525194500 +0800" stop="20240525203500 +0800">
+  <programme channel="334778" start="20240525194500 +0000" stop="20240525203500 +0000">
     <title lang="zh">愛永遠都在(護)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525203500 +0800" stop="20240525213500 +0800">
+  <programme channel="334778" start="20240525203500 +0000" stop="20240525213500 +0000">
     <title lang="zh">教宗3與他的12件收藏(普)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525213500 +0800" stop="20240525215000 +0800">
+  <programme channel="334778" start="20240525213500 +0000" stop="20240525215000 +0000">
     <title lang="zh">疾凍救援(護)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525215000 +0800" stop="20240525232500 +0800">
+  <programme channel="334778" start="20240525215000 +0000" stop="20240525232500 +0000">
     <title lang="zh">佳麗村三姊妹(護)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525232500 +0800" stop="20240525234500 +0800">
+  <programme channel="334778" start="20240525232500 +0000" stop="20240525234500 +0000">
     <title lang="zh">夢魘真相(輔12)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240525234500 +0800" stop="20240526013500 +0800">
+  <programme channel="334778" start="20240525234500 +0000" stop="20240526013500 +0000">
     <title lang="zh">迫切救援(輔12)</title>
     <date>20240526</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526013500 +0800" stop="20240526014000 +0800">
+  <programme channel="334778" start="20240526013500 +0000" stop="20240526014000 +0000">
     <title lang="zh">逃無阻境(輔12)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526014000 +0800" stop="20240526031500 +0800">
+  <programme channel="334778" start="20240526014000 +0000" stop="20240526031500 +0000">
     <title lang="zh">奪命密碼(輔12)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526031500 +0800" stop="20240526034000 +0800">
+  <programme channel="334778" start="20240526031500 +0000" stop="20240526034000 +0000">
     <title lang="zh">託陰(輔12)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526034000 +0800" stop="20240526051000 +0800">
+  <programme channel="334778" start="20240526034000 +0000" stop="20240526051000 +0000">
     <title lang="zh">恐龍飯店(輔12)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526051000 +0800" stop="20240526051500 +0800">
+  <programme channel="334778" start="20240526051000 +0000" stop="20240526051500 +0000">
     <title lang="zh">瘋狂好萊塢(護)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526051500 +0800" stop="20240526070500 +0800">
+  <programme channel="334778" start="20240526051500 +0000" stop="20240526070500 +0000">
     <title lang="zh">願望咖啡館(護)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526070500 +0800" stop="20240526072000 +0800">
+  <programme channel="334778" start="20240526070500 +0000" stop="20240526072000 +0000">
     <title lang="zh">淘金網美(護)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526072000 +0800" stop="20240526084500 +0800">
+  <programme channel="334778" start="20240526072000 +0000" stop="20240526084500 +0000">
     <title lang="zh">地球另一端的守候(護)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526084500 +0800" stop="20240526090500 +0800">
+  <programme channel="334778" start="20240526084500 +0000" stop="20240526090500 +0000">
     <title lang="zh">舉足氫重(護)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526090500 +0800" stop="20240526104500 +0800">
+  <programme channel="334778" start="20240526090500 +0000" stop="20240526104500 +0000">
     <title lang="zh">一路顛到掛(護)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526104500 +0800" stop="20240526105500 +0800">
+  <programme channel="334778" start="20240526104500 +0000" stop="20240526105500 +0000">
     <title lang="zh">白日夢小英雄(護)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526105500 +0800" stop="20240526122500 +0800">
+  <programme channel="334778" start="20240526105500 +0000" stop="20240526122500 +0000">
     <title lang="zh">總是有個人在愛你(護)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526122500 +0800" stop="20240526124500 +0800">
+  <programme channel="334778" start="20240526122500 +0000" stop="20240526124500 +0000">
     <title lang="zh">鋼鐵叛軍(護)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526124500 +0800" stop="20240526141000 +0800">
+  <programme channel="334778" start="20240526124500 +0000" stop="20240526141000 +0000">
     <title lang="zh">SHERO：好萊塢的女替身(護)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526141000 +0800" stop="20240526142500 +0800">
+  <programme channel="334778" start="20240526141000 +0000" stop="20240526142500 +0000">
     <title lang="zh">放牛班的提琴手(普)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526142500 +0800" stop="20240526161000 +0800">
+  <programme channel="334778" start="20240526142500 +0000" stop="20240526161000 +0000">
     <title lang="zh">100%小狼人(普)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526161000 +0800" stop="20240526162000 +0800">
+  <programme channel="334778" start="20240526161000 +0000" stop="20240526162000 +0000">
     <title lang="zh">嚕嚕米冬日樂園(普)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526162000 +0800" stop="20240526175000 +0800">
+  <programme channel="334778" start="20240526162000 +0000" stop="20240526175000 +0000">
     <title lang="zh">我可能不會變瘦(普)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526175000 +0800" stop="20240526180000 +0800">
+  <programme channel="334778" start="20240526175000 +0000" stop="20240526180000 +0000">
     <title lang="zh">漫步油畫世界(普)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526180000 +0800" stop="20240526192500 +0800">
+  <programme channel="334778" start="20240526180000 +0000" stop="20240526192500 +0000">
     <title lang="zh">舞娘辣辣隊(普)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526192500 +0800" stop="20240526194500 +0800">
+  <programme channel="334778" start="20240526192500 +0000" stop="20240526194500 +0000">
     <title lang="zh">製琴師與他的琴人(普)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526194500 +0800" stop="20240526210000 +0800">
+  <programme channel="334778" start="20240526194500 +0000" stop="20240526210000 +0000">
     <title lang="zh">愛永遠都在(護)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526210000 +0800" stop="20240526215000 +0800">
+  <programme channel="334778" start="20240526210000 +0000" stop="20240526215000 +0000">
     <title lang="zh">漸動人生(護)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526215000 +0800" stop="20240526230000 +0800">
+  <programme channel="334778" start="20240526215000 +0000" stop="20240526230000 +0000">
     <title lang="zh">佳麗村三姊妹(護)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526230000 +0800" stop="20240526232500 +0800">
+  <programme channel="334778" start="20240526230000 +0000" stop="20240526232500 +0000">
     <title lang="zh">特務117(輔15)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240526232500 +0800" stop="20240527011500 +0800">
+  <programme channel="334778" start="20240526232500 +0000" stop="20240527011500 +0000">
     <title lang="zh">夢魘真相(輔12)</title>
     <date>20240527</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527011500 +0800" stop="20240527013500 +0800">
+  <programme channel="334778" start="20240527011500 +0000" stop="20240527013500 +0000">
     <title lang="zh">姊魅會(輔15)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527013500 +0800" stop="20240527025000 +0800">
+  <programme channel="334778" start="20240527013500 +0000" stop="20240527025000 +0000">
     <title lang="zh">逃無阻境(輔12)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527025000 +0800" stop="20240527031500 +0800">
+  <programme channel="334778" start="20240527025000 +0000" stop="20240527031500 +0000">
     <title lang="zh">尖叫週末夜(輔15)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527031500 +0800" stop="20240527045500 +0800">
+  <programme channel="334778" start="20240527031500 +0000" stop="20240527045500 +0000">
     <title lang="zh">託陰(輔12)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527045500 +0800" stop="20240527051000 +0800">
+  <programme channel="334778" start="20240527045500 +0000" stop="20240527051000 +0000">
     <title lang="zh">最後還是愛上你(護)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527051000 +0800" stop="20240527065000 +0800">
+  <programme channel="334778" start="20240527051000 +0000" stop="20240527065000 +0000">
     <title lang="zh">瘋狂好萊塢(護)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527065000 +0800" stop="20240527070500 +0800">
+  <programme channel="334778" start="20240527065000 +0000" stop="20240527070500 +0000">
     <title lang="zh">因努的孤兒(護)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527070500 +0800" stop="20240527084000 +0800">
+  <programme channel="334778" start="20240527070500 +0000" stop="20240527084000 +0000">
     <title lang="zh">淘金網美(護)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527084000 +0800" stop="20240527084500 +0800">
+  <programme channel="334778" start="20240527084000 +0000" stop="20240527084500 +0000">
     <title lang="zh">我聽見了你的頻率(護)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527084500 +0800" stop="20240527104000 +0800">
+  <programme channel="334778" start="20240527084500 +0000" stop="20240527104000 +0000">
     <title lang="zh">舉足氫重(護)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527104000 +0800" stop="20240527104500 +0800">
+  <programme channel="334778" start="20240527104000 +0000" stop="20240527104500 +0000">
     <title lang="zh">陰謀(護)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527104500 +0800" stop="20240527122500 +0800">
+  <programme channel="334778" start="20240527104500 +0000" stop="20240527122500 +0000">
     <title lang="zh">白日夢小英雄(護)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527122500 +0800" stop="20240527123000 +0800">
+  <programme channel="334778" start="20240527122500 +0000" stop="20240527123000 +0000">
     <title lang="zh">鋼鐵叛軍(護)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527123000 +0800" stop="20240527141000 +0800">
+  <programme channel="334778" start="20240527123000 +0000" stop="20240527141000 +0000">
     <title lang="zh">前世金聲(護)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527141000 +0800" stop="20240527160000 +0800">
+  <programme channel="334778" start="20240527141000 +0000" stop="20240527160000 +0000">
     <title lang="zh">搖滾農莊錄音趣(護)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527160000 +0800" stop="20240527161000 +0800">
+  <programme channel="334778" start="20240527160000 +0000" stop="20240527161000 +0000">
     <title lang="zh">我的老爸喵星人(普)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527161000 +0800" stop="20240527174000 +0800">
+  <programme channel="334778" start="20240527161000 +0000" stop="20240527174000 +0000">
     <title lang="zh">嚕嚕米冬日樂園(普)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527174000 +0800" stop="20240527175000 +0800">
+  <programme channel="334778" start="20240527174000 +0000" stop="20240527175000 +0000">
     <title lang="zh">嚕嚕米冬日樂園(普)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527175000 +0800" stop="20240527192000 +0800">
+  <programme channel="334778" start="20240527175000 +0000" stop="20240527192000 +0000">
     <title lang="zh">漫步油畫世界(普)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527192000 +0800" stop="20240527192500 +0800">
+  <programme channel="334778" start="20240527192000 +0000" stop="20240527192500 +0000">
     <title lang="zh">遙遙回家路(普)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527192500 +0800" stop="20240527210000 +0800">
+  <programme channel="334778" start="20240527192500 +0000" stop="20240527210000 +0000">
     <title lang="zh">製琴師與他的琴人(普)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527210000 +0800" stop="20240527225000 +0800">
+  <programme channel="334778" start="20240527210000 +0000" stop="20240527225000 +0000">
     <title lang="zh">奇楚亞救援(輔12)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527225000 +0800" stop="20240527230000 +0800">
+  <programme channel="334778" start="20240527225000 +0000" stop="20240527230000 +0000">
     <title lang="zh">心理遊戲(輔12)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240527230000 +0800" stop="20240528005000 +0800">
+  <programme channel="334778" start="20240527230000 +0000" stop="20240528005000 +0000">
     <title lang="zh">特務117(輔15)</title>
     <date>20240528</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528005000 +0800" stop="20240528011500 +0800">
+  <programme channel="334778" start="20240528005000 +0000" stop="20240528011500 +0000">
     <title lang="zh">邪校(輔15)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528011500 +0800" stop="20240528023500 +0800">
+  <programme channel="334778" start="20240528011500 +0000" stop="20240528023500 +0000">
     <title lang="zh">姊魅會(輔15)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528023500 +0800" stop="20240528025000 +0800">
+  <programme channel="334778" start="20240528023500 +0000" stop="20240528025000 +0000">
     <title lang="zh">極品間諜(輔12)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528025000 +0800" stop="20240528040000 +0800">
+  <programme channel="334778" start="20240528025000 +0000" stop="20240528040000 +0000">
     <title lang="zh">尖叫週末夜(輔15)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528040000 +0800" stop="20240528045500 +0800">
+  <programme channel="334778" start="20240528040000 +0000" stop="20240528045500 +0000">
     <title lang="zh">戰慄磁場(護)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528045500 +0800" stop="20240528053000 +0800">
+  <programme channel="334778" start="20240528045500 +0000" stop="20240528053000 +0000">
     <title lang="zh">最後還是愛上你(護)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528053000 +0800" stop="20240528065000 +0800">
+  <programme channel="334778" start="20240528053000 +0000" stop="20240528065000 +0000">
     <title lang="zh">老娘出擊(護)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528065000 +0800" stop="20240528072000 +0800">
+  <programme channel="334778" start="20240528065000 +0000" stop="20240528072000 +0000">
     <title lang="zh">因努的孤兒(護)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528072000 +0800" stop="20240528084000 +0800">
+  <programme channel="334778" start="20240528072000 +0000" stop="20240528084000 +0000">
     <title lang="zh">水晶守護者(護)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528084000 +0800" stop="20240528090500 +0800">
+  <programme channel="334778" start="20240528084000 +0000" stop="20240528090500 +0000">
     <title lang="zh">我聽見了你的頻率(護)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528090500 +0800" stop="20240528104000 +0800">
+  <programme channel="334778" start="20240528090500 +0000" stop="20240528104000 +0000">
     <title lang="zh">神鬼駭客史諾登(護)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528104000 +0800" stop="20240528114500 +0800">
+  <programme channel="334778" start="20240528104000 +0000" stop="20240528114500 +0000">
     <title lang="zh">陰謀(護)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528114500 +0800" stop="20240528123000 +0800">
+  <programme channel="334778" start="20240528114500 +0000" stop="20240528123000 +0000">
     <title lang="zh">美聲俘虜(護)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528123000 +0800" stop="20240528134500 +0800">
+  <programme channel="334778" start="20240528123000 +0000" stop="20240528134500 +0000">
     <title lang="zh">前世金聲(護)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528134500 +0800" stop="20240528141000 +0800">
+  <programme channel="334778" start="20240528134500 +0000" stop="20240528141000 +0000">
     <title lang="zh">五十而麗(護)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528141000 +0800" stop="20240528154000 +0800">
+  <programme channel="334778" start="20240528141000 +0000" stop="20240528154000 +0000">
     <title lang="zh">搖滾農莊錄音趣(護)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528154000 +0800" stop="20240528160000 +0800">
+  <programme channel="334778" start="20240528154000 +0000" stop="20240528160000 +0000">
     <title lang="zh">機器戰狗(普)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528160000 +0800" stop="20240528172500 +0800">
+  <programme channel="334778" start="20240528160000 +0000" stop="20240528172500 +0000">
     <title lang="zh">我的老爸喵星人(普)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528172500 +0800" stop="20240528174000 +0800">
+  <programme channel="334778" start="20240528172500 +0000" stop="20240528174000 +0000">
     <title lang="zh">怪奇小子之瘋狂王國(普)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528174000 +0800" stop="20240528185500 +0800">
+  <programme channel="334778" start="20240528174000 +0000" stop="20240528185500 +0000">
     <title lang="zh">嚕嚕米冬日樂園(普)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528185500 +0800" stop="20240528192000 +0800">
+  <programme channel="334778" start="20240528185500 +0000" stop="20240528192000 +0000">
     <title lang="zh">逆轉人生(普)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528192000 +0800" stop="20240528210000 +0800">
+  <programme channel="334778" start="20240528192000 +0000" stop="20240528210000 +0000">
     <title lang="zh">遙遙回家路(普)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528210000 +0800" stop="20240528211000 +0800">
+  <programme channel="334778" start="20240528210000 +0000" stop="20240528211000 +0000">
     <title lang="zh">奇楚亞救援(輔12)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528211000 +0800" stop="20240528225000 +0800">
+  <programme channel="334778" start="20240528211000 +0000" stop="20240528225000 +0000">
     <title lang="zh">獨立日-星際反擊戰(輔12)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528225000 +0800" stop="20240528225500 +0800">
+  <programme channel="334778" start="20240528225000 +0000" stop="20240528225500 +0000">
     <title lang="zh">心理遊戲(輔12)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240528225500 +0800" stop="20240529004000 +0800">
+  <programme channel="334778" start="20240528225500 +0000" stop="20240529004000 +0000">
     <title lang="zh">超風爆(輔12)</title>
     <date>20240529</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529004000 +0800" stop="20240529005000 +0800">
+  <programme channel="334778" start="20240529004000 +0000" stop="20240529005000 +0000">
     <title lang="zh">絕世大間諜-西賽羅(輔12)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529005000 +0800" stop="20240529023500 +0800">
+  <programme channel="334778" start="20240529005000 +0000" stop="20240529023500 +0000">
     <title lang="zh">邪校(輔15)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529023500 +0800" stop="20240529031000 +0800">
+  <programme channel="334778" start="20240529023500 +0000" stop="20240529031000 +0000">
     <title lang="zh">極品間諜(輔12)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529031000 +0800" stop="20240529040000 +0800">
+  <programme channel="334778" start="20240529031000 +0000" stop="20240529040000 +0000">
     <title lang="zh">異形殺戮(輔12)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529040000 +0800" stop="20240529050000 +0800">
+  <programme channel="334778" start="20240529040000 +0000" stop="20240529050000 +0000">
     <title lang="zh">戰慄磁場(護)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529050000 +0800" stop="20240529053000 +0800">
+  <programme channel="334778" start="20240529050000 +0000" stop="20240529053000 +0000">
     <title lang="zh">電競隱者(護)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529053000 +0800" stop="20240529071000 +0800">
+  <programme channel="334778" start="20240529053000 +0000" stop="20240529071000 +0000">
     <title lang="zh">老娘出擊(護)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529071000 +0800" stop="20240529072000 +0800">
+  <programme channel="334778" start="20240529071000 +0000" stop="20240529072000 +0000">
     <title lang="zh">水星任務(護)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529072000 +0800" stop="20240529085500 +0800">
+  <programme channel="334778" start="20240529072000 +0000" stop="20240529085500 +0000">
     <title lang="zh">水晶守護者(護)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529085500 +0800" stop="20240529090500 +0800">
+  <programme channel="334778" start="20240529085500 +0000" stop="20240529090500 +0000">
     <title lang="zh">一路顛到掛(護)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529090500 +0800" stop="20240529104500 +0800">
+  <programme channel="334778" start="20240529090500 +0000" stop="20240529104500 +0000">
     <title lang="zh">神鬼駭客史諾登(護)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529104500 +0800" stop="20240529114500 +0800">
+  <programme channel="334778" start="20240529104500 +0000" stop="20240529114500 +0000">
     <title lang="zh">全力以赴(護)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529114500 +0800" stop="20240529124500 +0800">
+  <programme channel="334778" start="20240529114500 +0000" stop="20240529124500 +0000">
     <title lang="zh">美聲俘虜(護)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529124500 +0800" stop="20240529134500 +0800">
+  <programme channel="334778" start="20240529124500 +0000" stop="20240529134500 +0000">
     <title lang="zh">數字戰(護)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529134500 +0800" stop="20240529143000 +0800">
+  <programme channel="334778" start="20240529134500 +0000" stop="20240529143000 +0000">
     <title lang="zh">五十而麗(護)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529143000 +0800" stop="20240529154000 +0800">
+  <programme channel="334778" start="20240529143000 +0000" stop="20240529154000 +0000">
     <title lang="zh">老爸hold不住(普)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529154000 +0800" stop="20240529162500 +0800">
+  <programme channel="334778" start="20240529154000 +0000" stop="20240529162500 +0000">
     <title lang="zh">機器戰狗(普)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529162500 +0800" stop="20240529172500 +0800">
+  <programme channel="334778" start="20240529162500 +0000" stop="20240529172500 +0000">
     <title lang="zh">失憶的父親(普)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529172500 +0800" stop="20240529181000 +0800">
+  <programme channel="334778" start="20240529172500 +0000" stop="20240529181000 +0000">
     <title lang="zh">怪奇小子之瘋狂王國(普)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529181000 +0800" stop="20240529185500 +0800">
+  <programme channel="334778" start="20240529181000 +0000" stop="20240529185500 +0000">
     <title lang="zh">畫畫小人國(普)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529185500 +0800" stop="20240529194000 +0800">
+  <programme channel="334778" start="20240529185500 +0000" stop="20240529194000 +0000">
     <title lang="zh">逆轉人生(普)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529194000 +0800" stop="20240529211000 +0800">
+  <programme channel="334778" start="20240529194000 +0000" stop="20240529211000 +0000">
     <title lang="zh">巴亞拉魔幻冒險(普)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529211000 +0800" stop="20240529212000 +0800">
+  <programme channel="334778" start="20240529211000 +0000" stop="20240529212000 +0000">
     <title lang="zh">獨立日-星際反擊戰(輔12)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529212000 +0800" stop="20240529225500 +0800">
+  <programme channel="334778" start="20240529212000 +0000" stop="20240529225500 +0000">
     <title lang="zh">交響狂人(普)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529225500 +0800" stop="20240529233500 +0800">
+  <programme channel="334778" start="20240529225500 +0000" stop="20240529233500 +0000">
     <title lang="zh">超風爆(輔12)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240529233500 +0800" stop="20240530014000 +0800">
+  <programme channel="334778" start="20240529233500 +0000" stop="20240530014000 +0000">
     <title lang="zh">馬麻吉4：勇敢傳說(普)</title>
     <date>20240530</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240530014000 +0800" stop="20240530032500 +0800">
+  <programme channel="334778" start="20240530014000 +0000" stop="20240530032500 +0000">
     <title lang="zh">菜鳥刺客(輔15)</title>
     <date>20240531</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240530032500 +0800" stop="20240530051000 +0800">
+  <programme channel="334778" start="20240530032500 +0000" stop="20240530051000 +0000">
     <title lang="zh">超自然戰場(輔12)</title>
     <date>20240531</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240530051000 +0800" stop="20240530070000 +0800">
+  <programme channel="334778" start="20240530051000 +0000" stop="20240530070000 +0000">
     <title lang="zh">星際嗨客(護)</title>
     <date>20240531</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240530070000 +0800" stop="20240530085000 +0800">
+  <programme channel="334778" start="20240530070000 +0000" stop="20240530085000 +0000">
     <title lang="zh">雙面海德(護)</title>
     <date>20240531</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240530085000 +0800" stop="20240530104500 +0800">
+  <programme channel="334778" start="20240530085000 +0000" stop="20240530104500 +0000">
     <title lang="zh">阿嬤凍未條(護)</title>
     <date>20240531</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240530104500 +0800" stop="20240530123500 +0800">
+  <programme channel="334778" start="20240530104500 +0000" stop="20240530123500 +0000">
     <title lang="zh">老娘出擊(護)</title>
     <date>20240531</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240530123500 +0800" stop="20240530142500 +0800">
+  <programme channel="334778" start="20240530123500 +0000" stop="20240530142500 +0000">
     <title lang="zh">陰謀(護)</title>
     <date>20240531</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240530142500 +0800" stop="20240530161500 +0800">
+  <programme channel="334778" start="20240530142500 +0000" stop="20240530161500 +0000">
     <title lang="zh">城市嘻友記(普)</title>
     <date>20240531</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240530161500 +0800" stop="20240530180000 +0800">
+  <programme channel="334778" start="20240530161500 +0000" stop="20240530180000 +0000">
     <title lang="zh">飢餓大冒險(普)</title>
     <date>20240531</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240530180000 +0800" stop="20240530195500 +0800">
+  <programme channel="334778" start="20240530180000 +0000" stop="20240530195500 +0000">
     <title lang="zh">心頌(普)</title>
     <date>20240531</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240530195500 +0800" stop="20240530214000 +0800">
+  <programme channel="334778" start="20240530195500 +0000" stop="20240530214000 +0000">
     <title lang="zh">森林特攻隊：大腳丫家族(普)</title>
     <date>20240531</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240530214000 +0800" stop="20240530234500 +0800">
+  <programme channel="334778" start="20240530214000 +0000" stop="20240530234500 +0000">
     <title lang="zh">撼動奇蹟(輔12)</title>
     <date>20240531</date>
     <audio>
       <stereo>stereo</stereo>
     </audio>
   </programme>
-  <programme channel="334778" start="20240530234500 +0800" stop="20240531000000 +0800">
+  <programme channel="334778" start="20240530234500 +0000" stop="20240531000000 +0000">
     <title lang="zh">毀天滅地(輔12)</title>
     <date>20240531</date>
     <audio>
